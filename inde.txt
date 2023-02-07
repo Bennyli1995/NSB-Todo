@@ -1,0 +1,3 @@
+class="fas fa-plus-square"
+ <i class="fas fa-check"></i>
+ <i class="fas fa-trash"></i>
